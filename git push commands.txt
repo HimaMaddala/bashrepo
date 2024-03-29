@@ -1,0 +1,8 @@
+open git bash in root folder of your project
+git init
+git status
+gid add -A
+git status
+git commit -m " your message"
+git remote add origin https://github.com/HimaMaddala/your_repo.git
+git push origin master
