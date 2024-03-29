@@ -1,0 +1,1 @@
+cors paraparse jsonwebtoken mongoose
